@@ -1,2 +1,1 @@
-# classification-with-k-means-clustering
-classification-with-k-means-clustering
+# Classification With K Means Clustering
